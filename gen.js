@@ -13,7 +13,7 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*jp1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=jp2[rnd]+tanda2[tag1]+jp1[rnd2]+tanda1[tag2]+Math.floor(99 + Math.random() * 311)+"\n";
+          names=tanda1[tag2]+jp2[rnd]+jp1[rnd2]+tanda2[tag1]+Math.floor(99 + Math.random() * 0)+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*jp2.length);
