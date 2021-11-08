@@ -18,3 +18,4 @@ var tr1=["Şimdi bana tıklayın","Yaramazlık yapalım","Buraya göz atın","Ca
     var tr2=["😘 Merhaba,","🥰 Merhaba çocuklar!","💦 Merhaba,","👙 Nasılsın?","🔞 Merhaba,","😜 Merhaba.","🥴 Yo!","👙 Howdy!","💦 G'day dostum!","Hiya'yı 🔞!","💦 merhaba, ne oldu?","💦 Hey, sen!","🥰 Merhaba çocuklar!"]
 var tanda1=[" .💞....."," .💕....."," .💋....."," .💟....."," .🥀....."," .👙....."," .🌺....."," .🌹....."," .🌸....."," .🌷....."]
 var tanda2=[" 🔻⬇️"," 👇🔽"," 👇🔻"," ⬇️👇"]
+var tanda3=["😘","🥰","😍","💦","👙","😝","🥴","😜","🔞"]
