@@ -29,7 +29,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*us1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=us2[rnd]+tanda1[tag2]+"\n"+us1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=us2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+us1[rnd2]+tanda2[tag1]+"\n";
         }
           else{
           rnd=Math.floor(Math.random()*us1.length);
@@ -42,7 +43,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*de1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=de2[rnd]+tanda1[tag2]+"\n"+de1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=de2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+de1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*de2.length);
@@ -55,7 +57,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*fr1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=fr2[rnd]+tanda1[tag2]+"\n"+fr1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=fr2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+fr1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*fr2.length);
@@ -68,7 +71,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*it1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=it2[rnd]+tanda1[tag2]+"\n"+it1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=it2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+it1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*it2.length);
@@ -81,7 +85,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*kr1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=kr2[rnd]+tanda1[tag2]+"\n"+kr1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=kr2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+kr1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*kr2.length);
@@ -94,7 +99,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*tw1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=tw2[rnd]+tanda1[tag2]+"\n"+tw1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=tw2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+tw1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*tw2.length);
@@ -107,7 +113,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*br1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=br2[rnd]+tanda1[tag2]+"\n"+br1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=br2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+br1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*br2.length);
@@ -120,7 +127,8 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*tr1.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
-          names=tr2[rnd]+tanda1[tag2]+"\n"+tr1[rnd2]+tanda2[tag1]+"\n";
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          names=tr2[rnd]+tanda1[tag2]+"\n"+tanda3[tag3]+tr1[rnd2]+tanda2[tag1]+"\n";
         }
         else{
           rnd=Math.floor(Math.random()*tr2.length);
