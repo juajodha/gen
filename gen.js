@@ -11,6 +11,7 @@ function nameGen(type){
         if(tp===1){
           rnd=Math.floor(Math.random()*jp2.length);
           rnd2=Math.floor(Math.random()*jp1.length);
+          rnd3=Math.floor(Math.random()*tanda3.length);
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
           names=jp2[rnd]+tanda2[tag1]+jp1[rnd2]+tanda1[tag2]+Math.floor(99 + Math.random() * 311)+"\n";
@@ -18,7 +19,7 @@ function nameGen(type){
         else{
           rnd=Math.floor(Math.random()*jp2.length);
           rnd2=Math.floor(Math.random()*jp1.length);
-          names=tanda1[rnd]+" "+jp2[rnd]+" "+jp1[rnd2]+"\n";
+          names=tanda3[rnd]+" "+jp2[rnd]+" "+jp1[rnd2]+"\n";
         }}
         if(op==="US"){
         if(tp===1){
