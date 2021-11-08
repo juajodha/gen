@@ -1,4 +1,4 @@
-var jp1=[""Looking for someone to come and touch my body and give my cat a sexy kiss. I just want to feel the sexual intercourse with a monster rooster. and hot girls to open live shows:"
+var jp1=["Looking for someone to come and touch my body and give my cat a sexy kiss. I just want to feel the sexual intercourse with a monster rooster. and hot girls to open live shows:"
 ,"I'm looking for someone who can teach me how to really do pornography for a long time because I've done good things. Make Me feel naughty:"
 ,"Do you have some fun for adults? I am a very sexy woman looking for happiness. I love sucking dick, I will swallow all of your. Lonely Nude show for girls:"
 ,"Well, the most beautiful part of a man is his rooster, all I want to do is suck a, if I can, I have a deep inside. Looking for Lifeex tonight:"
