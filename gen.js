@@ -4,7 +4,7 @@ function nameGen(type){
       var ip=document.getElementById('berapa').value;
       var element=document.createElement("textarea");
       element.setAttribute("class","form-control input-sm u-full-width");
-      element.setAttribute("style","height:350px");
+      element.setAttribute("style","height:150px");
       element.setAttribute("id","result");
       for(i=0;i<ip;i++){
         if(op==="JP"){
