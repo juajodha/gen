@@ -18,7 +18,7 @@ function nameGen(type){
         else{
           rnd=Math.floor(Math.random()*jp2.length);
           rnd2=Math.floor(Math.random()*jp1.length);
-          names=jp2[rnd]+\n" "+jp1[rnd2]+"\n";
+          names=tanda1[rnd]+" "+jp2[rnd]+" "+jp1[rnd2]+"\n";
         }}
         if(op==="US"){
         if(tp===1){
