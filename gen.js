@@ -1,7 +1,6 @@
 function nameGen(type){
       var tp=type;
       var op=document.getElementById('option').value;
-      var ip=document.getElementById('berapa').value=1;
       var element=document.createElement("textarea");
       element.setAttribute("class","form-control input-sm u-full-width");
       element.setAttribute("style","height:150px");
