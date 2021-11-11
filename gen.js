@@ -144,6 +144,21 @@ function nameGen(type){
           rnd2=Math.floor(Math.random()*tr1.length);
           names=tr2[rnd]+" "+tr1[rnd2]+"\n";
         }}
+	        if(op==="PL"){
+        if(tp===1){
+          rnd=Math.floor(Math.random()*pl2.length);
+          rnd2=Math.floor(Math.random()*pl1.length);
+          tag1=Math.floor(Math.random()*tanda2.length);
+          tag2=Math.floor(Math.random()*tanda1.length);
+	  tag3=Math.floor(Math.random()*tanda3.length);
+          tag13=Math.floor(Math.random()*tanda13.length);
+	  names=pl2[rnd]+"\n"+tanda1[tag2]+tanda13[tag13]+"\n"+tanda3[tag3]+pl1[rnd2]+tanda2[tag1];
+        }
+        else{
+          rnd=Math.floor(Math.random()*pl2.length);
+          rnd2=Math.floor(Math.random()*pl1.length);
+          names=pl2[rnd]+" "+pl1[rnd2]+"\n";
+        }}
         br=document.createElement('br');
         element.appendChild(document.createTextNode(names));
         element.appendChild(br);
