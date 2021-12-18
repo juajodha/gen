@@ -46,11 +46,12 @@ function nameGen(type){
           tag1=Math.floor(Math.random()*tanda2.length);
           tag2=Math.floor(Math.random()*tanda1.length);
 	  tag3=Math.floor(Math.random()*tanda3.length);
+	  tag5=Math.floor(Math.random()*tanda5.length);
 	  tag14=Math.floor(Math.random()*tanda14.length);
 	  tag16=Math.floor(Math.random()*tanda16.length);
 	  tag18=Math.floor(Math.random()*tanda18.length);
 	  tag19=Math.floor(Math.random()*tanda19.length);
-          names=tanda16[tag16]+de2[rnd]+"\n"+tanda1[tag2]+tanda14[tag14]+tanda18[tag18]+tanda19[tag19]+"\n"+tanda3[tag3]+de1[rnd2]+tanda2[tag1];
+          names=tanda16[tag16]+de2[rnd]+"\n"+tanda1[tag2]+tanda14[tag14]+tanda18[tag18]+tanda19[tag19]+"\n"+tanda3[tag3]+tanda5[tag5]+de1[rnd2]+tanda2[tag1];
 	}
         else{
           rnd=Math.floor(Math.random()*de2.length);
