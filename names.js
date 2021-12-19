@@ -35,6 +35,6 @@ var tanda13=["Mężczyźni, potrzebuję was"]
 var tanda14=["22 // ","23 // ","24 // ","25 // ","26 // ","27 // "];
 var tanda15=[" // 🇧🇷"]
 var tanda16=["✻ ","✼ ","✾ ","✿ ","❀ ","❁ ","❃ ","❇ ","❈ ","❉ ","❊ ","✣ ","✤ "]
-var tanda17=[""]
+var tanda17=["Obrigado, "]
 var tanda18=["Einzel","E.inzel","Ei.nzel","E.i.nzel","Ein.zel","E.in.zel","Ei.n.zel","E.i.n.zel","Einz.el","E.inz.el","Ei.nz.el","E.i.nz.el","Ein.z.el","E.in.z.el","Ei.n.z.el","E.i.n.z.el","Einze.l","E.inze.l","Ei.nze.l","E.i.nze.l","Ein.ze.l","E.in.ze.l","Ei.n.ze.l","E.i.n.ze.l","Einz.e.l","E.inz.e.l","Ei.nz.e.l","E.i.nz.e.l","Ein.z.e.l","E.in.z.e.l","Ei.n.z.e.l","E.i.n.z.e.l"];
 var tanda19=[" // 🇩🇪"]
