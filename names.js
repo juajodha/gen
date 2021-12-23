@@ -36,5 +36,5 @@ var tanda14=["22 // ","23 // ","24 // ","25 // ","26 // ","27 // "];
 var tanda15=[" // 🇧🇷"]
 var tanda16=["✻ ","✼ ","✾ ","✿ ","❀ ","❁ ","❃ ","❇ ","❈ ","❉ ","❊ ","✣ ","✤ "]
 var tanda17=["Obrigado, "]
-var tanda18=["Guten Tag für dich !!!","Guten Tag für Sie !!!","Wo kann ich dich lieben?"];
+var tanda18=[""];
 var tanda19=[" // 🇩🇪"]
