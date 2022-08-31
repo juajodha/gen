@@ -1,4 +1,4 @@
-var fr1=["Contactez-moi ici","Autres informations privées me concernant","Venez me parler sur mon profil privé","Chat privé et appelez-moi ou trouvez-moi","En attente d’un partenaire privé 👄 Contactez-moi","Contactez-nous ici! 📩 Devenir privé","Cliquez ici pour le privé en direct","Voir plus ma photo et vidéo privée","Découvrez l’aperçu de ma dernière vidéo","J’ai besoin d’une date, trouver et privé Appelez-moi","Si vous me cherchez, contactez-moi ici! tous privés"];
+var fr1=["De nos jours, je ne peux pas publier mes vidéos chaudes sur Instagram si vous voulez regarder","Découvrez mes collections chaudes et vives et photo si vous voulez les voir","J’espère que vous êtes en bonne santé et que vous pouvez","uivre mes photos vives et chaleureuses si vous voulez les voir","Regardez la vidéo et voyez quelques-unes de mes photos personnelles ici","Aujourd’hui, je vous ai envoyé une photo personnelle vivante et chaude de moi"];
     var fr2=["😘 Bonjour,","🥰 Salut les gars!","💦 Bonjour,","👙 Comment faites-vous?","🔞 Hé,","😜 Salut.","🥴 Yo!","👙 Howdy!","💦 G’day mate!","🔞 Hiya!","💦 Hé, qu’est-ce qui se passe?","💦 Hé, toi !","🥰 Salut les garçons!"]
 var us1=["Nowadays I can't post my hot videos on Instagram if you want to watch","Check out my hot video and photo collections if you want to see them","I hope you are healthy and can follow my video and warm photos if you want to see them","Watch the video and see some of my personal photos here","Today I sent you a video and some hot personal photos of me"];
     var us2=["😘 Hello,","🥰 Hi guys!","💦 Hi there,","👙 How do you do?","🔞 Hey,","😜 Hey there.","🥴 Yo!","👙 Howdy!","💦 G'day mate!","🔞 Hiya!","💦 Hey, what's up?","💦 Hey, you!","🥰 Hi boys!"]
@@ -23,7 +23,7 @@ var tanda1=["💞 ","💕 ","💋 ","💟 ","🥀 ","🌺 ","🌹 ","🌸 ","�
 var tanda2=[" 👇"]
 var tanda3=["🤑 ","👻 ","😸 ","😹 ","💀 ","🤠 ","🥴 ","🤮 ","🤢 ","😈 ","☠ ","😻 ","😼 ","👽 ","👿 ","🤮 ","🤧 ","👹 ","👾 ","😽 ","🙀 ","🤖 ","👺 ","🤡 ","😷 ","🤒 ","🤕 ","🤡 ","🎃 ","😿 ","😾 ","😺 ","💩 ","🌷 ","🌹 ","🥀 ","🌺 ","🌸 ","🌼 ","🌻 ","🌞 ","💐 ","🌾 ","🐚 ","🍁 ","🍂 ","🍃 ","🎋 ","🍀 ","☘ ","🌿 ","🌱 ","🌴 ","🌳 ","🌲 ","💦 ","💧 ","💎 ","✧☾ ","✨ ","🦁 ","🌶 ","💥 ","🎼 ","💫 ","⚜ ","❄️ ","💙 ","👑 ","🎵 ","🔥 ","💋 ","🦅 ","🧸 "]
 var tanda4=["男、私はあなたが欲しい"]
-var tanda5=[""]
+var tanda5=["🔞 adulte seulement // "]
 var tanda6=["Mann, ich will dich"]
 var tanda7=["🔞 adult only // 🇺🇸 "]
 var tanda8=["男人，我想你"]
