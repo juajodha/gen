@@ -1,7 +1,7 @@
 var fr1=["Cek ma vidéo"];
     var fr2=["📌 Je suis célibataire"]
-var fr1=["check this video"];
-    var fr2=["📌 I am single"]
+var us1=["check this video"];
+    var us2=["📌 I am single"]
 var it1=["Contattami qui","Altre informazioni private su di me","Vieni a parlare con me sul mio profilo privato","Chat privata e chiamami o trovami","In attesa di un partner privato 👄 Mettiamoci in contatto","Contattaci qui! 📩 Lascia diventare privato","Clicca qui per il live privato","Vedi di più la mia foto e video privati","Guarda l'anteprima del mio ultimo video","Ho bisogno di un appuntamento, Trova e chiamami privato","Se mi stai cercando, contattami qui! tutto privato"];
     var it2=["😘 Ciao,","🥰 Ciao ragazzi!","💦 Ciao,","👙 Come si fa?","🔞 Ehi,","😜 Ehi, ecco.","🥴 Yo!","👙 Howdy!","💦 compagno G'day!","🔞 Hiya!","💦 Ehi, che succede?","💦 Ehi, tu!","🥰 Ciao ragazzi!"]
 var jp1=["こちらからご連絡ください","その他の個人情報について","私のプライベートプロフィールで私に話しに来て","プライベートチャットと私を呼び出すか、私を見つける","プライベートパートナーを待っている👄私に連絡しましょう","お問い合わせはこちら!📩 プライベートにしましょう","ライブプライベートについては、ここをクリックしてください","私のプライベート写真とビデオをもっと見る","最新のビデオのプレビューをチェック","私は日付、検索とプライベートコールミーが必要です","あなたが私を探しているなら、ここで私に連絡してください!すべてのプライベート"];    
